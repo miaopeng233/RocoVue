@@ -7,6 +7,7 @@
       </el-menu-item>
       <el-menu-item index="/login">登录</el-menu-item>
     </el-menu>
+    <router-view />
   </div>
 </template>
 
@@ -32,3 +33,8 @@ export default {
 };
 </script>
 
+<style scoped>
+.demo-block.demo-menu .el-menu-demo {
+  padding-left: 55px;
+}
+</style>

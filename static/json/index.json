@@ -1,0 +1,673 @@
+[
+    {
+        "name": "简单同族国家数",
+        "type": 0,
+        "code": "quantity_famctry"
+    },
+    {
+        "name": "扩展同族国家数",
+        "type": 0,
+        "code": "quantity_famctry_ex"
+    },
+    {
+        "name": "简单同族申请号个数",
+        "type": 0,
+        "code": "famctry_an0"
+    },
+    {
+        "name": "扩展同族申请号个数",
+        "type": 0,
+        "code": "famctry_ex_an0"
+    },
+    {
+        "name": "申请时权利要求个数",
+        "type": 0,
+        "code": "quantity_app_clm"
+    },
+    {
+        "name": "授权时权利要求个数",
+        "type": 0,
+        "code": "quantity_granted_clm"
+    },
+    {
+        "name": "独立权利要求数量",
+        "type": 0,
+        "code": "quantity_clmi"
+    },
+    {
+        "name": "申请时首项权利要求字数",
+        "type": 0,
+        "code": "aquantity_clmo1_words"
+    },
+    {
+        "name": "授权时首项权利要求字数",
+        "type": 0,
+        "code": "bquantity_clmo1_words"
+    },
+    {
+        "name": "剩余有效期(天)",
+        "type": 0,
+        "code": "expd_adj_sort"
+    },
+    {
+        "name": "专利年龄(天)",
+        "type": 0,
+        "code": "expd_ad_sort"
+    },
+    {
+        "name": "付费时长(天)",
+        "type": 0,
+        "code": "pldu"
+    },
+    {
+        "name": "授权简单同族国家数",
+        "type": 0,
+        "code": "famctry_b_l"
+    },
+    {
+        "name": "授权简单同族申请号个数",
+        "type": 0,
+        "code": "famctry_an"
+    },
+    {
+        "name": "授权扩展同族国家数",
+        "type": 0,
+        "code": "famctry_ex_b_l"
+    },
+    {
+        "name": "授权扩展同族申请号个数",
+        "type": 0,
+        "code": "famctry_ex_an"
+    },
+    {
+        "name": "专利引文个数-申请号",
+        "type": 0,
+        "code": "quantity_pcitan"
+    },
+    {
+        "name": "非专利引文个数",
+        "type": 0,
+        "code": "quantity_ncit"
+    },
+    {
+        "name": "引文个数",
+        "type": 0,
+        "code": "quantity_cit"
+    },
+    {
+        "name": "引文国别个数",
+        "type": 0,
+        "code": "quantity_pcitpnctry"
+    },
+    {
+        "name": "施引专利个数-简单家族",
+        "type": 0,
+        "code": "quantity_citb_fam"
+    },
+    {
+        "name": "施引专利个数-扩展家族",
+        "type": 0,
+        "code": "quantity_citb_famex"
+    },
+    {
+        "name": "施引专利个数-申请号",
+        "type": 0,
+        "code": "quantity_citban"
+    },
+    {
+        "name": "施引专利国别个数",
+        "type": 0,
+        "code": "quantity_citbpnctry"
+    },
+    {
+        "name": "简单家族施引专利申请号数量",
+        "type": 0,
+        "code": "quantity_citban_fam"
+    },
+    {
+        "name": "简单家族施引专利国别个数",
+        "type": 0,
+        "code": "quantity_citbpnctry_fam"
+    },
+    {
+        "name": "扩展家族施引专利申请号数量",
+        "type": 0,
+        "code": "quantity_citban_famex"
+    },
+    {
+        "name": "扩展家族施引专利国别个数",
+        "type": 0,
+        "code": "quantity_citbpnctry_famex"
+    },
+    {
+        "name": "发明(设计)人个数",
+        "type": 0,
+        "code": "quantity_in"
+    },
+    {
+        "name": "附图个数",
+        "type": 0,
+        "code": "figures"
+    },
+    {
+        "name": "说明书页数",
+        "type": 0,
+        "code": "desc_pages"
+    },
+    {
+        "name": "文献页数",
+        "type": 0,
+        "code": "pages"
+    },
+    {
+        "name": "IPC分类号个数",
+        "type": 0,
+        "code": "ipc_q"
+    },
+    {
+        "name": "IPC小类个数",
+        "type": 0,
+        "code": "ipcs_q"
+    },
+    {
+        "name": "申请人数量",
+        "type": 0,
+        "code": "quantity_ap"
+    },
+    {
+        "name": "专利权人数量",
+        "type": 0,
+        "code": "human_number"
+    },
+    {
+        "name": "许可次数",
+        "type": 0,
+        "code": "li_q"
+    },
+    {
+        "name": "质押次数",
+        "type": 0,
+        "code": "pl_q"
+    },
+    {
+        "name": "申请权转让次数",
+        "type": 0,
+        "code": "asa_q"
+    },
+    {
+        "name": "专利权转让次数",
+        "type": 0,
+        "code": "asp_q"
+    },
+    {
+        "name": "判决金额(元)",
+        "type": 0,
+        "code": "lt_ja"
+    },
+    {
+        "name": "复审次数",
+        "type": 0,
+        "code": "acreq"
+    },
+    {
+        "name": "复审口审次数",
+        "type": 0,
+        "code": "rexot"
+    },
+    {
+        "name": "无效次数",
+        "type": 0,
+        "code": "acinq"
+    },
+    {
+        "name": "无效口审次数",
+        "type": 0,
+        "code": "invot"
+    },
+    {
+        "name": "诉讼次数",
+        "type": 0,
+        "code": "quantity_litigation"
+    },
+    {
+        "name": "申请时首项权利要求技术特征数",
+        "type": 0,
+        "code": "apply_skill_number"
+    },
+    {
+        "name": "授权时首项权利要求技术特征数",
+        "type": 0,
+        "code": "finish_skill_number"
+    },
+    {
+        "name": "申请人类型",
+        "type": 1,
+        "code": "apc",
+        "data": [
+            {
+                "name": "企业",
+                "code": "E"
+            },
+            {
+                "name": "大专院校",
+                "code": "C"
+            },
+            {
+                "name": "科研单位",
+                "code": "I"
+            },
+            {
+                "name": "机关团体",
+                "code": "O"
+            },
+            {
+                "name": "个人",
+                "code": "P"
+            },
+            {
+                "name": "其他",
+                "code": "U"
+            }
+        ]
+    },
+    {
+        "name": "简单同族是否为四方专利（中美日欧）",
+        "type": 1,
+        "code": "famctry",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "权利要求类型",
+        "type": 1,
+        "code": "clmtype",
+        "data": [
+            {
+                "name": "产品",
+                "code": "P"
+            },
+            {
+                "name": "方法",
+                "code": "M"
+            },
+            {
+                "name": "产品方法",
+                "code": "PM"
+            },
+            {
+                "name": "未知",
+                "code": "UN"
+            }
+        ]
+    },
+    {
+        "name": "是否授权",
+        "type": 1,
+        "code": "is_grdate",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "专利类型",
+        "type": 1,
+        "code": "antype_cn",
+        "data": [
+            {
+                "name": "发明",
+                "code": "A"
+            },
+            {
+                "name": "实用新型",
+                "code": "U"
+            },
+            {
+                "name": "临时申请",
+                "code": "P"
+            },
+            {
+                "name": "PCT专利",
+                "code": "W"
+            },
+            {
+                "name": "外观设计",
+                "code": "F"
+            },
+            {
+                "name": "译本",
+                "code": "T"
+            }
+        ]
+    },
+    {
+        "name": "同族专利的无效情况",
+        "type": 1,
+        "code": "situation_of_wrong",
+        "data": [
+            {
+                "name": "有效",
+                "code": "0"
+            },
+            {
+                "name": "无效",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "是否经历复审",
+        "type": 1,
+        "code": "statinfo2",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "是否有代理机构/代理人",
+        "type": 1,
+        "code": "has_agc",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "是否有PCT同族",
+        "type": 1,
+        "code": "has_pct_fam",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "是否有战略性新兴产业主分类",
+        "type": 1,
+        "code": "hasessim",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "是否有战略性新兴产业分类",
+        "type": 1,
+        "code": "hasessi",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "案件关联类型",
+        "type": 1,
+        "code": "thing related",
+        "data": [
+            {
+                "name": "371申请",
+                "code": "371"
+            },
+            {
+                "name": "增补",
+                "code": "AD"
+            },
+            {
+                "name": "延续",
+                "code": "CT"
+            },
+            {
+                "name": "部分延续",
+                "code": "CP"
+            },
+            {
+                "name": "延续再公告",
+                "code": "CR"
+            },
+            {
+                "name": "分案",
+                "code": "DV"
+            },
+            {
+                "name": "母案",
+                "code": "DI"
+            },
+            {
+                "name": "在后申请",
+                "code": "LA"
+            },
+            {
+                "name": "在先申请",
+                "code": "PA"
+            },
+            {
+                "name": "临时申请",
+                "code": "PV"
+            },
+            {
+                "name": "再公告",
+                "code": "RI"
+            },
+            {
+                "name": "关联公布",
+                "code": "RP"
+            },
+            {
+                "name": "替换",
+                "code": "SU"
+            },
+            {
+                "name": "一案双申",
+                "code": "SA"
+            },
+            {
+                "name": "未知",
+                "code": "UN"
+            }
+        ]
+    },
+    {
+        "name": "是否分案/母案",
+        "type": 1,
+        "code": "is_division",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "一案双申（另一专利是否授权）",
+        "type": 1,
+        "code": "is_double",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "专利奖等级",
+        "type": 1,
+        "code": "award_level",
+        "data": [
+            {
+                "name": "优秀奖",
+                "code": "优秀奖"
+            },
+            {
+                "name": "金奖",
+                "code": "金奖"
+            },
+            {
+                "name": "银奖",
+                "code": "银奖"
+            }
+        ]
+    },
+    {
+        "name": "是否国防解密",
+        "type": 1,
+        "code": "country secreat",
+        "data": [
+            {
+                "name": "是",
+                "code": "0"
+            },
+            {
+                "name": "否",
+                "code": "1"
+            }
+        ]
+    },
+    {
+        "name": "所属领域专利发明授权率（近5年，完整年）",
+        "code": "Their_patented_inventions",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利有XY对比文件占比（近5年，完整年）",
+        "code": "XY_comparative_file_proportion",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利公开增量比例（近5年，完整年，5年前为0的往后1年找，直到不为0）",
+        "code": "disclosure_increments",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利申请人增量比例（近5年，完整年）",
+        "code": "percentage_of_patent_applicants",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利发明人增量比例（近5年，完整年）",
+        "code": "Incremental_proportion",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利技术集中度（排名前10申请人专利占比）（近5年，完整年）",
+        "code": "patent_technology",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利合作申请占比（近5年，完整年）",
+        "code": "patent_cooperation_application",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利许可占比（近5年，完整年）",
+        "code": "patent_licenses",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利质押占比（近5年，完整年）",
+        "code": "patent_pledges",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利转让占比（近5年，完整年）",
+        "code": "patent_assignment",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利涉外专利占比（近5年，完整年）",
+        "code": "foreign-related_patents",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利高校/科研单位申请占比（近5年，完整年）",
+        "code": "universities/scientific_research",
+        "type": 2
+    },
+    {
+        "name": "所属领域发明专利平均维持时长（年）",
+        "code": "average_length_of_invention",
+        "type": 2
+    },
+    {
+        "name": "所属领域实用新型平均维持时长（年）",
+        "code": "average_duration_of_maintenance",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利分案占比（近5年，完整年）",
+        "code": "Proportion_of_divisions",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利一案双申占比（近5年，完整年）",
+        "code": "proportion_of_double_applications",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利复审占比（近5年，完整年）",
+        "code": "proportion_of_reexamination",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利无效占比（近5年，完整年）",
+        "code": "proportion_of_invalidation",
+        "type": 2
+    },
+    {
+        "name": "所属领域专利保全占比（近5年，完整年）",
+        "code": "proportion_of_preservation",
+        "type": 2
+    }
+]
